@@ -14,8 +14,8 @@
 
             Console.WriteLine(y+z);*/
 
-            int num1 = 6;
-            int num2 = 6;
+            int num1 = 4;
+            int num2 = 4;
 
             if (num1 == num2)
             {
