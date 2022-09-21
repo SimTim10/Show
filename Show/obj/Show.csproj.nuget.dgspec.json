@@ -1,24 +1,23 @@
 {
   "format": 1,
   "restore": {
-    "C:\\Users\\Simon\\source\\repos\\Show\\Show\\Show.csproj": {}
+    "C:\\Users\\Fredric\\source\\repos\\JensenStart2022\\C#\\Kurs1\\Övningar\\GitPractice\\Show\\Show.csproj": {}
   },
   "projects": {
-    "C:\\Users\\Simon\\source\\repos\\Show\\Show\\Show.csproj": {
+    "C:\\Users\\Fredric\\source\\repos\\JensenStart2022\\C#\\Kurs1\\Övningar\\GitPractice\\Show\\Show.csproj": {
       "version": "1.0.0",
       "restore": {
-        "projectUniqueName": "C:\\Users\\Simon\\source\\repos\\Show\\Show\\Show.csproj",
+        "projectUniqueName": "C:\\Users\\Fredric\\source\\repos\\JensenStart2022\\C#\\Kurs1\\Övningar\\GitPractice\\Show\\Show.csproj",
         "projectName": "Show",
-        "projectPath": "C:\\Users\\Simon\\source\\repos\\Show\\Show\\Show.csproj",
-        "packagesPath": "C:\\Users\\Simon\\.nuget\\packages\\",
-        "outputPath": "C:\\Users\\Simon\\source\\repos\\Show\\Show\\obj\\",
+        "projectPath": "C:\\Users\\Fredric\\source\\repos\\JensenStart2022\\C#\\Kurs1\\Övningar\\GitPractice\\Show\\Show.csproj",
+        "packagesPath": "C:\\Users\\Fredric\\.nuget\\packages\\",
+        "outputPath": "C:\\Users\\Fredric\\source\\repos\\JensenStart2022\\C#\\Kurs1\\Övningar\\GitPractice\\Show\\obj\\",
         "projectStyle": "PackageReference",
         "fallbackFolders": [
-          "C:\\Program Files (x86)\\Microsoft Visual Studio\\Shared\\NuGetPackages"
+          "C:\\Program Files\\dotnet\\sdk\\NuGetFallbackFolder"
         ],
         "configFilePaths": [
-          "C:\\Users\\Simon\\AppData\\Roaming\\NuGet\\NuGet.Config",
-          "C:\\Program Files (x86)\\NuGet\\Config\\Microsoft.VisualStudio.FallbackLocation.config",
+          "C:\\Users\\Fredric\\AppData\\Roaming\\NuGet\\NuGet.Config",
           "C:\\Program Files (x86)\\NuGet\\Config\\Microsoft.VisualStudio.Offline.config"
         ],
         "originalTargetFrameworks": [
