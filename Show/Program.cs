@@ -25,6 +25,7 @@
             {
                 Console.WriteLine("The first number doesn't equal the second number");
             }
+            Console.WriteLine("How is it going?");
         }
     }
 }
