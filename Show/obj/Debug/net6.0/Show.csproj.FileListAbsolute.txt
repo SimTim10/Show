@@ -1,0 +1,15 @@
+C:\Users\Simon\source\repos\Show\Show\bin\Debug\net6.0\Show.exe
+C:\Users\Simon\source\repos\Show\Show\bin\Debug\net6.0\Show.deps.json
+C:\Users\Simon\source\repos\Show\Show\bin\Debug\net6.0\Show.runtimeconfig.json
+C:\Users\Simon\source\repos\Show\Show\bin\Debug\net6.0\Show.dll
+C:\Users\Simon\source\repos\Show\Show\bin\Debug\net6.0\Show.pdb
+C:\Users\Simon\source\repos\Show\Show\obj\Debug\net6.0\Show.csproj.AssemblyReference.cache
+C:\Users\Simon\source\repos\Show\Show\obj\Debug\net6.0\Show.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\Simon\source\repos\Show\Show\obj\Debug\net6.0\Show.AssemblyInfoInputs.cache
+C:\Users\Simon\source\repos\Show\Show\obj\Debug\net6.0\Show.AssemblyInfo.cs
+C:\Users\Simon\source\repos\Show\Show\obj\Debug\net6.0\Show.csproj.CoreCompileInputs.cache
+C:\Users\Simon\source\repos\Show\Show\obj\Debug\net6.0\Show.dll
+C:\Users\Simon\source\repos\Show\Show\obj\Debug\net6.0\refint\Show.dll
+C:\Users\Simon\source\repos\Show\Show\obj\Debug\net6.0\Show.pdb
+C:\Users\Simon\source\repos\Show\Show\obj\Debug\net6.0\Show.genruntimeconfig.cache
+C:\Users\Simon\source\repos\Show\Show\obj\Debug\net6.0\ref\Show.dll
